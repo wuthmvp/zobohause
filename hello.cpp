@@ -6,7 +6,7 @@ int main()
 
 {
 
-cout << "Wuth From MVP Crew" << endl;
+cout << "pikaczu i rajczu" << endl;
 
 
 return 0;
